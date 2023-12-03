@@ -1,0 +1,10 @@
+C:\Users\Elyah Weiser\source\repos\String Reversal\String Reversal\bin\Debug\String Reversal.exe.config
+C:\Users\Elyah Weiser\source\repos\String Reversal\String Reversal\bin\Debug\String Reversal.exe
+C:\Users\Elyah Weiser\source\repos\String Reversal\String Reversal\bin\Debug\String Reversal.pdb
+C:\Users\Elyah Weiser\source\repos\String Reversal\String Reversal\obj\Debug\String Reversal.csproj.AssemblyReference.cache
+C:\Users\Elyah Weiser\source\repos\String Reversal\String Reversal\obj\Debug\String_Reversal.Form1.resources
+C:\Users\Elyah Weiser\source\repos\String Reversal\String Reversal\obj\Debug\String_Reversal.Properties.Resources.resources
+C:\Users\Elyah Weiser\source\repos\String Reversal\String Reversal\obj\Debug\String Reversal.csproj.GenerateResource.cache
+C:\Users\Elyah Weiser\source\repos\String Reversal\String Reversal\obj\Debug\String Reversal.csproj.CoreCompileInputs.cache
+C:\Users\Elyah Weiser\source\repos\String Reversal\String Reversal\obj\Debug\String Reversal.exe
+C:\Users\Elyah Weiser\source\repos\String Reversal\String Reversal\obj\Debug\String Reversal.pdb
